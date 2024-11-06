@@ -19,6 +19,11 @@ This notebook concatenated each events files of each runs.
 
 ## Part1_2_GLM_AAL : 
 
+This notebook à REMPLIR APRES QUE FRANCESCO A FINI DE CLEAN LE NOTEBOOK!
+
+## Part2_Kmeans : 
+
+
 
 
 
