@@ -23,6 +23,7 @@ This notebook à REMPLIR APRES QUE FRANCESCO A FINI DE CLEAN LE NOTEBOOK :)
 
 ## Part2_Kmeans : 
 
+This notebook applies K-means clustering on the subject fMRI runs, considering one volume as one sample. This is done in order to find relevant activated brain network involved in listening of positive versus negative music.  
 
 
 
