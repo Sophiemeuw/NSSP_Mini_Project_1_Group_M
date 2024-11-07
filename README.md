@@ -20,14 +20,11 @@ This notebook concatenated each events files of each runs.
 ## Part1_2_GLM_AAL : 
 
 In the notebook "part1_2_GLM_AAL.ipynb", we focus on analyzing brain region activations using a General Linear Model (GLM) approach, paired with the AAL (Automated Anatomical Labeling) atlas to identify specific brain regions.
-
 This notebook performs the following steps:
 
-- **GLM Analysis**: We apply a GLM to model brain activity in response to positive versus negative musical stimuli. The design matrix incorporates drift and motion regressors to improve accuracy, and contrasts are computed to compare responses to the different stimuli.
-  
-- **Region-Based Mapping with AAL Atlas**: The AAL atlas is used to locate and analyze specific brain regions of interest (e.g., Vermis and Olfactory regions). By mapping GLM-derived activation data onto these regions, we can visualize the intensity of responses to the experimental conditions.
-
-- **Visualization**: We create detailed visualizations of the contrast maps and highlighted regions, with a color-coded intensity scale to represent varying levels of activation.
+- GLM Analysis: We apply a GLM to model brain activity in response to positive versus negative musical stimuli. The design matrix incorporates drift and motion regressors to improve accuracy, and contrasts are computed to compare responses to the different stimuli.
+- Region-Based Mapping with AAL Atlas: The AAL atlas is used to locate and analyze specific brain regions of interest (e.g., Vermis and Olfactory regions). By mapping GLM-derived activation data onto these regions, we can visualize the intensity of responses to the experimental conditions.
+- Visualization: We create detailed visualizations of the contrast maps and highlighted regions, with a color-coded intensity scale to represent varying levels of activation.
 
 This notebook allows us to identify specific regions involved in emotional processing during musical stimuli and forms part of our broader analysis of control subject number 1's brain activity.
 
